@@ -2,9 +2,9 @@
 
 ## What's here?
 * Graphics
-    + SVG to PNG converter
+    + SVG to PNG converter (requires Wand and ImageMagick)
 * Video
-    + Sound remover
+    + Sound remover (requires MoviePy)
 * Security
     + Password generator
 
